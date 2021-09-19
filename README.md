@@ -42,7 +42,7 @@ Percentage spent by category
  40| o        
  30| o        
  20| o  o     
- 10| o  o  o  
+ 10| o  o  o
   0| o  o  o  
     ----------
      F  C  A  
